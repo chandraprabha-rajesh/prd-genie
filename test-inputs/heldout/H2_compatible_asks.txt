@@ -1,0 +1,7 @@
+Backend team wants to move the service to PostgreSQL.
+
+Mobile team wants offline sync for the field app.
+
+Data team wants a nightly export into the warehouse.
+
+Platform lead: all three are on the roadmap for next quarter.

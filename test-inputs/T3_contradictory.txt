@@ -1,0 +1,3 @@
+The dashboard should auto-refresh every 5 seconds.
+
+Later in the discussion: Performance is critical, minimize API calls.

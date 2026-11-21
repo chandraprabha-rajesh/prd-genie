@@ -1,0 +1,6 @@
+Regional managers need a consolidated view across their territories.
+
+The view should be intuitive.
+
+We also went back and forth on whether dormant accounts belong in it. Didn't land
+on anything.

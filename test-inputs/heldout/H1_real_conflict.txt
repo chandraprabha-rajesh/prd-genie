@@ -1,0 +1,7 @@
+Ops: Customers should be able to edit an order right up until it ships.
+
+Finance: The invoice has to be locked at the moment the order is placed. We can't
+have invoice numbers changing after issue.
+
+Ops: Most edits are address changes and quantity bumps, so they happen two or three
+days in.
