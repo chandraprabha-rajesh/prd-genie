@@ -10,6 +10,17 @@ Built in LangFlow on gpt-4o-mini at temperature 0, traced and evaluated in Langf
 
 ---
 
+## Submission
+
+| | |
+|---|---|
+| **Demo video** | [Watch on Google Drive](https://drive.google.com/file/d/1AabJlZj-um5Z8PK3jhjXJ6UjpYUs3IkB/view) — walkthrough of the architecture, the failure that changed the build, and the evaluation results |
+| **Slide deck** | [`docs/PRDGenie_Capstone_Deck.pptx`](docs/PRDGenie_Capstone_Deck.pptx) — narration in the speaker notes |
+| **Q3 — Build** | [`docs/q3-writeup.md`](docs/q3-writeup.md) |
+| **Q4 — Reflection** | [`docs/q4-reflection.md`](docs/q4-reflection.md) |
+
+---
+
 ## The problem it addresses
 
 A BA or PM turns meeting notes into a PRD, then into stories, then works out what is
@@ -202,6 +213,9 @@ Diagnosed and deliberately not fixed, given the time available. Full list in
 README.md
 docs/
   architecture.png / .svg     the diagram above
+  q3-writeup.md               the Q3 build writeup
+  q4-reflection.md            the Q4 reflection
+  PRDGenie_Capstone_Deck.pptx the slide deck, narration in the speaker notes
   test-results.md             14-test baseline run, evaluator scores, HITL demo
   open-defects.md             every known defect, with cause and candidate fix
   flow-verification.md        proof the two flows differ by one edge and nothing else
