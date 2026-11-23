@@ -15,6 +15,8 @@ Built in LangFlow on gpt-4o-mini at temperature 0, traced and evaluated in Langf
 | | |
 |---|---|
 | **Demo video** | [Watch on Google Drive](https://drive.google.com/file/d/1AabJlZj-um5Z8PK3jhjXJ6UjpYUs3IkB/view) — walkthrough of the architecture, the failure that changed the build, and the evaluation results |
+| **Tool walkthrough — automated chain** | [Watch](https://drive.google.com/file/d/1OfZUlmp24WAd3U7E2PQu9FDn_2vBt2LH/view?usp=sharing) — the five agents running end to end in LangFlow |
+| **Tool walkthrough — human in the loop** | [Watch](https://drive.google.com/file/d/1iCLStHRL5qrcybEaD6ck0n1Z2k87lMfH/view?usp=sharing) — the checkpoint in the canvas, and the Langfuse traces and scores |
 | **Slide deck** | [`docs/PRDGenie_Capstone_Deck.pptx`](docs/PRDGenie_Capstone_Deck.pptx) — narration in the speaker notes |
 | **Q3 — Build** | [`docs/q3-writeup.md`](docs/q3-writeup.md) |
 | **Q4 — Reflection** | [`docs/q4-reflection.md`](docs/q4-reflection.md) |
